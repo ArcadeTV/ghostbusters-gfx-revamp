@@ -1,9 +1,6 @@
 ## Ghostbusters GFX Revamp
 _This a work-in-progress_
 
-
-This project started at [www.circuit-board.de](www.circuit-board.de) with the help of some awesome people.
-
 - Please see the current [Todo List](https://github.com/ArcadeTV/ghostbusters-gfx-revamp/blob/main/info/TODO.md)
 - Report any issues [here](https://github.com/ArcadeTV/ghostbusters-gfx-revamp/issues)
 - See [commits](https://github.com/ArcadeTV/ghostbusters-gfx-revamp/commits/main) in main branch for a brief changelog.
