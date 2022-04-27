@@ -1,0 +1,29 @@
+{ "frames": {
+   "tileset.ase": {
+    "frame": { "x": 0, "y": 0, "w": 240, "h": 176 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 240, "h": 176 },
+    "sourceSize": { "w": 240, "h": 176 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.33-x64",
+  "image": "tileset.png",
+  "format": "I8",
+  "size": { "w": 240, "h": 176 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Background", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "Slice 1", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 0, "w": 80, "h": 176 } }] },
+   { "name": "Slice 2", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 80, "y": 0, "w": 80, "h": 176 } }] },
+   { "name": "Slice 3", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 160, "y": 0, "w": 80, "h": 176 } }] }
+  ]
+ }
+}
